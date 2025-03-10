@@ -9,7 +9,7 @@
 /* ✅ Set GIF as Background */
 body, html {
     background-color: black; /* Fallback */
-    background-image: url('/sonisk/media/SoniskSeigr.gif');
+    background-image: url('media/SoniskSeigr.gif');
     background-size: cover; /* ✅ Ensure full coverage */
     background-position: center center;
     background-repeat: no-repeat;
